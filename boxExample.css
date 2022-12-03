@@ -1,0 +1,19 @@
+.sky{
+  width: 750px;
+  height: 250px;
+  background-color: #ccf2ff;
+}
+
+body{
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+.sun{
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #ffcc00;
+  box-shadow: 5px 5px 5px #e6b800;
+  margin-bottom: 800px;
+}
